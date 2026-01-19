@@ -20,9 +20,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=alikhan1129&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alikhan1129&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alikhan1129&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alikhan1129&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alikhan1129&theme=tokyonight" alt="Md Ali Khan's GitHub Stats" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
