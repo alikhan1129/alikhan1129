@@ -60,23 +60,21 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhan1129&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
-
-
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alikhan1129&theme=tokyonight" alt="Md Ali Khan's GitHub Stats" />
 </p>
 
+---
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/alikhan1129/alikhan1129/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
