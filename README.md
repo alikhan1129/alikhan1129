@@ -74,7 +74,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/alikhan1129/alikhan1129/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/alikhan1129/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
