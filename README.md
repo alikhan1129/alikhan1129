@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Ali Khan</h1>
+<h3 align="center">AI/ML Engineer • Full Stack Developer • Automation Specialist</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alikhan1129&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/alikhan1129?label=Followers&style=flat-square" alt="GitHub Followers" />
+</p>
+
 
 # 💫 About Me:
 🔭 I’m currently working on AI-powered automation and full-stack systems, including a multi-agent AI support platform and resume customization automation.<br>🤝 I’m looking to collaborate on AI SaaS products, automation workflows, RAG systems, and full-stack AI applications.<br>🧠 I’m looking for help with scaling production AI systems, system design, and advanced backend architecture.<br>🌱 I’m currently learning system design, serverless architectures, and production-grade AI deployment.<br>💬 Ask me about AI automation, resume optimization with LLMs, RAG pipelines, computer vision, or full-stack AI development.<br>⚡ Fun fact: I treat AI problems as mapping and automation challenges, not just model-building tasks.
@@ -13,6 +20,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=alikhan1129&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alikhan1129&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alikhan1129&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alikhan1129&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
