@@ -1,6 +1,11 @@
 ![LiveStreamer](https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862)
 
-<h1 align="center">Hi 👋, I'm Md Ali Khan</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;This+is+MD+ALI+KHAN....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 
 <h3 align="center">AI/ML Engineer • Automation Specialist</h3>
 
