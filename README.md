@@ -6,6 +6,28 @@
   </a>
 </h1>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MD+ALI+KHAN;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning...&font=Fira+Code&center=true&size=30&color=F75C7E&vCenter=true&width=500&height=70&duration=4000&pause=1000">
+  </a>
+</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=echo+%22MD+ALI+KHAN%22;System.out.println(%22Hello!%22);print(%22Welcome%22)&font=Roboto+Mono&center=true&size=28&color=39FF14&background=000000&vCenter=true&width=500&height=60">
+  </a>
+</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;This+is+MD+ALI+KHAN....;Nice+to+meet+you!&center=true&size=30&color=A855F7">
+  </a>
+</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;This+is+MD+ALI+KHAN....;Nice+to+meet+you!&center=true&size=30&color=29B6F6">
+  </a>
+</h1>
+
 
 <h3 align="center">AI/ML Engineer • Automation Specialist</h3>
 
