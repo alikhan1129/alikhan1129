@@ -9,6 +9,7 @@
   <font size="6" color="#F75C7E"><b>AI/ML Engineer • Automation Specialist</b></font>
 </div>
 
+---
 
 <div align="center">
 <a href="https://chat-with-ali.vercel.app/" target="_blank">
