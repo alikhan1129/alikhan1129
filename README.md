@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Ali Khan</h1>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=flat-square&logo=vercel)](https://chat-with-ali.vercel.app/)
 <h3 align="center">AI/ML Engineer • Full Stack Developer • Automation Specialist</h3>
 
 <p align="center">
