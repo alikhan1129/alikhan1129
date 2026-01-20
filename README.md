@@ -3,15 +3,11 @@
 <h3 align="center">AI/ML Engineer • Full Stack Developer • Automation Specialist</h3>
 
 <div align="center">
-
-### 🌐 Interactive Portfolio  
 <a href="https://chat-with-ali.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-Chat%20With%20Ali-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
 </div>
-> ⚡ **Portfolio:** https://chat-with-ali.vercel.app/  
-> AI • Automation • RAG • Full-Stack • Production Systems
+
 
 
 <p align="center">
