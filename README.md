@@ -3,12 +3,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+MD+ALI+KHAN&font=Fira+Code&center=true&size=30&color=F75C7E&vCenter=true&width=500&height=60&duration=4000&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+MD+ALI+KHAN&font=Fira+Code&center=true&size=45&color=F75C7E&vCenter=true&width=500&height=60&duration=4000&pause=1000">
   </a>
   <br>
-  <font size="4" color="#F75C7E"><b>AI/ML Engineer • Automation Specialist</b></font>
+  <font size="7" color="#F75C7E"><b>AI/ML Engineer • Automation Specialist</b></font>
 </div>
 
+---
 
 <div align="center">
 <a href="https://chat-with-ali.vercel.app/" target="_blank">
