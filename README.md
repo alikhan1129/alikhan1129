@@ -10,6 +10,10 @@
 </a>
 
 </div>
+> ⚡ **Portfolio:** https://chat-with-ali.vercel.app/  
+> AI • Automation • RAG • Full-Stack • Production Systems
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alikhan1129&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/alikhan1129?label=Followers&style=flat-square" alt="GitHub Followers" />
