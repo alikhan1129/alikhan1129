@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Ali Khan</h1>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=flat-square&logo=vercel)](https://chat-with-ali.vercel.app/)
-<h3 align="center">AI/ML Engineer • Full Stack Developer • Automation Specialist</h3>
 
+<h3 align="center">AI/ML Engineer • Full Stack Developer • Automation Specialist</h3>
+<p align="center">
+  🌐 <a href="https://chat-with-ali.vercel.app/" target="_blank"><b>Visit My Portfolio</b></a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alikhan1129&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/alikhan1129?label=Followers&style=flat-square" alt="GitHub Followers" />
