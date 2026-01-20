@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Ali Khan</h1>
 
 <h3 align="center">AI/ML Engineer • Full Stack Developer • Automation Specialist</h3>
-<p align="center">
-  🌐 <a href="https://chat-with-ali.vercel.app/" target="_blank"><b>Visit My Portfolio</b></a>
-</p>
+
 <div align="center">
 
 ### 🌐 Interactive Portfolio  
-🚀 **Live AI Projects • Automation • Full-Stack Systems**
-
 <a href="https://chat-with-ali.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-Chat%20With%20Ali-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
