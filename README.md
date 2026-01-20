@@ -8,15 +8,6 @@
   </a>
 </h1>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=echo+%22MD+ALI+KHAN%22;System.out.println(%22Hello!%22);print(%22Welcome%22)&font=Roboto+Mono&center=true&size=28&color=39FF14&background=000000&vCenter=true&width=500&height=60">
-  </a>
-</h1>
-
-
-
-
 <h3 align="center">AI/ML Engineer • Automation Specialist</h3>
 
 <div align="center">
