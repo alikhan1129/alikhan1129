@@ -6,9 +6,15 @@
   </a>
 </h1>
 
-<h3 align="center">
-  <font color="#F75C7E">AI/ML Engineer • Automation Specialist</font>
+<h3 align="center"> <font color="#F75C7E">AI/ML Engineer • Automation Specialist</font>
 </h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+MD+ALI+KHAN&font=Fira+Code&center=true&size=30&color=F75C7E&vCenter=true&width=500&height=50&duration=4000&pause=1000">
+  </a>
+  <br>
+  <font size="4" color="#F75C7E"><b>AI/ML Engineer • Automation Specialist</b></font>
+</div>
 
 
 <div align="center">
