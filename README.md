@@ -4,9 +4,10 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MD+ALI+KHAN;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning...&font=Fira+Code&center=true&size=30&color=F75C7E&vCenter=true&width=500&height=70&duration=4000&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+MD+ALI+KHAN&font=Fira+Code&center=true&size=30&color=F75C7E&vCenter=true&width=500&height=70&duration=4000&pause=1000">
   </a>
 </h1>
+
 
 <h3 align="center">AI/ML Engineer • Automation Specialist</h3>
 
