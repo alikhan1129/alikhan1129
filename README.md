@@ -1,19 +1,12 @@
 ![LiveStreamer](https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862)
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+MD+ALI+KHAN&font=Fira+Code&center=true&size=30&color=F75C7E&vCenter=true&width=500&height=70&duration=4000&pause=1000">
-  </a>
-</h1>
 
-<h3 align="center"> <font color="#F75C7E">AI/ML Engineer • Automation Specialist</font>
-</h3>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+MD+ALI+KHAN&font=Fira+Code&center=true&size=30&color=F75C7E&vCenter=true&width=500&height=50&duration=4000&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+MD+ALI+KHAN&font=Fira+Code&center=true&size=40&color=F75C7E&vCenter=true&width=500&height=50&duration=4000&pause=1000">
   </a>
   <br>
-  <font size="4" color="#F75C7E"><b>AI/ML Engineer • Automation Specialist</b></font>
+  <font size="6" color="#F75C7E"><b>AI/ML Engineer • Automation Specialist</b></font>
 </div>
 
 
