@@ -14,6 +14,13 @@
   </a>
 </h1>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+MD+ALI+KHAN;AI%2FML+Engineer;Automation+Specialist;Building+Intelligent+Agents...&font=Fira+Code&center=true&size=30&color=29B6F6&vCenter=true&width=500&height=70&duration=4000&pause=1000">
+  </a>
+</h1>
+
+
 <h3 align="center">AI/ML Engineer • Automation Specialist</h3>
 
 <div align="center">
