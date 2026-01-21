@@ -84,20 +84,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alikhan1129&theme=tokyonight" alt="Md Ali Khan's GitHub Stats" />
 </p>
 
----
+<br>
 
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
----
+<br>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
----
+<br>
 
 <p align="center">
   ⭐ <b>If you like my work, consider giving a star — it motivates me a lot!</b>
