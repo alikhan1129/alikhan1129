@@ -26,13 +26,12 @@
   <img src="https://img.shields.io/github/followers/alikhan1129?label=Followers&style=flat-square" alt="GitHub Followers" />
 </p>
 
-
 ## 💫 About Me:
-🔭 I’m currently working on AI-powered automation and full-stack systems, including a multi-agent AI support platform and resume customization automation.<br>🤝 I’m looking to collaborate on AI SaaS products, automation workflows, RAG systems, and full-stack AI applications.<br>🧠 I’m looking for help with scaling production AI systems, system design, and advanced backend architecture.<br>🌱 I’m currently learning system design, serverless architectures, and production-grade AI deployment.<br>💬 Ask me about AI automation, resume optimization with LLMs, RAG pipelines, computer vision, or full-stack AI development.<br>⚡ Fun fact: I treat AI problems as mapping and automation challenges, not just model-building tasks.
+🔭 I’m currently working on AI-powered automation and full-stack systems, including a multi-agent AI support platform and automated resume customization.<br>🤝 I’m looking to collaborate on AI SaaS products, automation workflows, RAG systems, and full-stack AI applications.<br>🧠 I’m looking for help with scaling production AI systems, system design, and advanced backend architecture.<br>🌱 I’m currently learning system design, serverless architectures, and production-grade AI deployment.<br>💬 Ask me about AI automation, resume optimization with LLMs, RAG pipelines, computer vision, or full-stack AI development.<br>⚡ Fun fact: I treat AI problems as mapping and automation challenges, not just model-building tasks.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__allie_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ali-khan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_allie_11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdalikhan9097@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__allie_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ali-khan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_allie_11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdalikhan9097@gmail.com) 
 
 ## 🛠️ Tech Stack
 
@@ -74,11 +73,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alikhan1129&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alikhan1129&theme=radical&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800" alt="GitHub Stats" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=alikhan1129&theme=radical&hide_border=false" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhan1129&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alikhan1129&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alikhan1129&theme=tokyonight" alt="Md Ali Khan's GitHub Stats" />
@@ -106,4 +105,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=alikhan1129&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
