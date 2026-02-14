@@ -94,7 +94,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/alikhan1129/alikhan1129/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <br>
