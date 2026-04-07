@@ -28,8 +28,7 @@
   <img src="https://img.shields.io/github/followers/alikhan1129?label=Followers&style=flat-square" alt="GitHub Followers" />
 </p>
 
-## 💫 About Me:
-🔭 I’m currently working on AI-powered automation and full-stack systems, including a multi-agent AI support platform and automated resume customization.<br>🤝 I’m looking to collaborate on AI SaaS products, automation workflows, RAG systems, and full-stack AI applications.<br>🧠 I’m looking for help with scaling production AI systems, system design, and advanced backend architecture.<br>🌱 I’m currently learning system design, serverless architectures, and production-grade AI deployment.<br>💬 Ask me about AI automation, resume optimization with LLMs, RAG pipelines, computer vision, or full-stack AI development.<br>⚡ Fun fact: I treat AI problems as mapping and automation challenges, not just model-building tasks.
+
 ## 💫 About Me
 🚀 **Backend / Full Stack Developer** focused on scalable systems & APIs.
 💻 Built production-ready apps including a campus social network & multi-agent AI systems.
@@ -37,7 +36,6 @@
 🌱 Currently improving DSA & backend scalability.
 ⚡ Fun fact: I focus on building real-world products, not just models.
 
----
 
 ## 🔥 Featured Projects
 
@@ -57,6 +55,18 @@
 *Created an interactive conversational AI portfolio that allows recruiters to dynamically explore my skills, projects, and work history.*
 * 🧠 **Features:** Engineered a contextually aware LLM backend to deliver smart responses alongside dynamic UI rendering.
 * 🛠️ **Tech Stack:** Implemented using Next.js, Vercel AI SDK, Groq API, and modern frontend architecture.
+
+### 🏅 AI Pest Control System
+*Engineered a computer vision application that identifies agricultural pests and recommends eco-friendly treatments.*
+* 🐛 **ML Pipeline:** Trained a deep learning classifier leveraging MobileNetV2 with transfer learning, achieving over 85% validation accuracy across 12 pest categories.
+* 🌿 **Impact:** Designed a mapping system to suggest natural, non-toxic pesticide alternatives based on visual identification.
+* 🛠️ **Tech Stack:** Python, TensorFlow, Keras, Matplotlib, OpenCV.
+
+### 🏅 Multi-Modal AI Voice Vision Assistant
+*Built an interactive desktop AI assistant combining natural language processing, computer vision, and voice commands.*
+* 👁️ **Multi-Modal Capabilities:** Integrated YOLOv8 for object detection, BLIP for scene understanding, and Whisper for speech-to-text recognition.
+* ⚡ **Functionality:** Programmed the system to execute local OS actions like launching applications, performing web searches, and recalling schedule details.
+* 🛠️ **Tech Stack:** Python, Generative AI APIs, NLP, OCR.
 
 
 
