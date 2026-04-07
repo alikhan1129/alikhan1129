@@ -30,6 +30,34 @@
 
 ## 💫 About Me:
 🔭 I’m currently working on AI-powered automation and full-stack systems, including a multi-agent AI support platform and automated resume customization.<br>🤝 I’m looking to collaborate on AI SaaS products, automation workflows, RAG systems, and full-stack AI applications.<br>🧠 I’m looking for help with scaling production AI systems, system design, and advanced backend architecture.<br>🌱 I’m currently learning system design, serverless architectures, and production-grade AI deployment.<br>💬 Ask me about AI automation, resume optimization with LLMs, RAG pipelines, computer vision, or full-stack AI development.<br>⚡ Fun fact: I treat AI problems as mapping and automation challenges, not just model-building tasks.
+## 💫 About Me
+🚀 **Backend / Full Stack Developer** focused on scalable systems & APIs.
+💻 Built production-ready apps including a campus social network & multi-agent AI systems.
+🧠 Strong in **Node.js, PostgreSQL, System Design, and AI Integrations**.
+🌱 Currently improving DSA & backend scalability.
+⚡ Fun fact: I focus on building real-world products, not just models.
+
+---
+
+## 🔥 Featured Projects
+
+### 🥇 [Canteen — Anonymous Campus Social Network](https://canteen-kohl.vercel.app/)
+*[span_0](start_span)Built a full-stack social platform supporting 2000+ universities with anonymous posting, communities, and real-time interactions.*[span_0](end_span)
+* [span_1](start_span)🎓 **Scale:** Architected location-based content filtering for campus-specific feeds.[span_1](end_span)
+* [span_2](start_span)💬 **Features:** Implemented scalable features including nested comments, `@mentions`, and role-based community management.[span_2](end_span)
+* [span_3](start_span)🛠️ **Tech Stack:** Designed backend using Next.js, PostgreSQL, and Prisma; deployed on Vercel and Supabase.[span_3](end_span)
+
+### 🥈 [AI-Powered Customer Support System](https://my-support-ai-frontend.vercel.app)
+*[span_4](start_span)Designed a multi-agent AI system with intent classification and dynamic routing for order, billing, and support workflows.*[span_4](end_span)
+* [span_5](start_span)🤖 **AI Features:** Implemented real-time streaming AI responses to improve response latency and user experience.[span_5](end_span)
+* [span_6](start_span)🗄️ **Architecture:** Optimized database performance through efficient connection pooling and query handling with Supabase.[span_6](end_span)
+* [span_7](start_span)🛠️ **Tech Stack:** Built a type-safe backend using Node.js, Hono, and PostgreSQL (Prisma ORM).[span_7](end_span)
+
+### 🥉 [AI Interactive Portfolio](https://chat-with-ali.vercel.app/)
+*[span_8](start_span)Developed an AI-powered conversational portfolio enabling recruiters to query projects, skills, and experience dynamically.*[span_8](end_span)
+* [span_9](start_span)🧠 **Features:** Built a context-aware LLM system for intelligent responses and UI rendering.[span_9](end_span)
+* [span_10](start_span)🛠️ **Tech Stack:** Implemented using Next.js, Vercel AI SDK, Groq API, and modern frontend architecture.[span_10](end_span)
+
 
 
 ## 🌐 Socials:
