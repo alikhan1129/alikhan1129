@@ -33,7 +33,11 @@
 <br>
 
 ## 🎯 Currently Seeking
-Actively looking for roles as an **AI Engineer** or **Machine Learning Engineer**, with a strong focus on **Generative AI**, **Agentic AI systems**, and **RAG architectures**. Open to full-time roles and high-impact freelance/contract work.
+🔍 **Target Roles:** AI Engineer • Machine Learning Engineer • Full-Stack AI Developer. <br>
+💡 **Core Focus:** Generative AI, Agentic AI Systems, and RAG Architectures. <br>
+💼 **Availability:** Open to **Full-time** roles, **Internships**, and high-impact **Contract** work. <br>
+🤝 **Interests:** AI-powered products, automation workflows, and production-grade system design.
+
 
 <br>
 
