@@ -12,8 +12,6 @@
 
 <br>
 
-<br>
-
 <div align="center">
 <a href="https://chat-with-ali.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-Chat%20With%20Ali-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -24,6 +22,20 @@
   <img src="https://komarev.com/ghpvc/?username=alikhan1129&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/alikhan1129?label=Followers&style=flat-square" alt="GitHub Followers" />
 </p>
+
+## 💫 About Me
+🚀 **Backend / Full Stack Developer** focused on scalable systems & APIs.
+💻 Built production-ready apps including a campus social network & multi-agent AI systems.
+🧠 Strong in **Node.js, PostgreSQL, System Design, and AI Integrations**.
+🌱 Currently improving DSA & backend scalability.
+⚡ Fun fact: I focus on building real-world products, not just models.
+
+<br>
+
+## 🎯 Currently Seeking
+Actively looking for roles as an **AI Engineer** or **Machine Learning Engineer**, with a strong focus on **Generative AI**, **Agentic AI systems**, and **RAG architectures**. Open to full-time roles and high-impact freelance/contract work.
+
+<br>
 
 ## 🔥 Featured Projects
 
@@ -50,21 +62,7 @@
 * **AI Pest Control System:** Deep learning classifier (MobileNetV2, 85%+ accuracy) that maps visual pest identification to eco-friendly pesticide recommendations. *(Python, TensorFlow, OpenCV)*
 * **Multi-Modal AI Voice Assistant:** Desktop automation tool integrating YOLOv8 (vision), Whisper (speech), and NLP to execute OS commands and web searches. *(Python, NLP, GenAI APIs)*
 
----
-
-## 💫 About Me
-🚀 **Backend / Full Stack Developer** focused on scalable systems & APIs.
-💻 Built production-ready apps including a campus social network & multi-agent AI systems.
-🧠 Strong in **Node.js, PostgreSQL, System Design, and AI Integrations**.
-🌱 Currently improving DSA & backend scalability.
-⚡ Fun fact: I focus on building real-world products, not just models.
-
----
-
-## 🎯 Currently Seeking
-Actively looking for roles as an **AI Engineer** or **Machine Learning Engineer**, with a strong focus on **Generative AI**, **Agentic AI systems**, and **RAG architectures**. Open to full-time roles and high-impact freelance/contract work.
-
----
+<br>
 
 ## 🛠️ Tech Stack
 
