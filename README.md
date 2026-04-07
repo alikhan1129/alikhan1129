@@ -24,10 +24,10 @@
 </p>
 
 ## 💫 About Me
-🚀 **Backend / Full Stack Developer** focused on scalable systems & APIs.
-💻 Built production-ready apps including a campus social network & multi-agent AI systems.
-🧠 Strong in **Node.js, PostgreSQL, System Design, and AI Integrations**.
-🌱 Currently improving DSA & backend scalability.
+🚀 **Backend / Full Stack Developer** focused on scalable systems & APIs.<br>
+💻 Built production-ready apps including a campus social network & multi-agent AI systems.<br>
+🧠 Strong in **Node.js, PostgreSQL, System Design, and AI Integrations**.<br>
+🌱 Currently improving DSA & backend scalability.<br>
 ⚡ Fun fact: I focus on building real-world products, not just models.
 
 <br>
