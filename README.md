@@ -1,10 +1,9 @@
 ![LiveStreamer](https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+%2B+AI+Engineer;Building+Scalable+AI+Systems;Automation+%7C+RAG+%7C+Multi-Agent&font=Fira+Code&center=true&size=35&color=F75C7E&vCenter=true&width=600&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+MD+ALI+KHAN;Backend+%2B+AI+Engineer&font=Fira+Code&center=true&size=40&color=F75C7E&vCenter=true&width=550&height=60&duration=4000&pause=1000">
   <br>
-  <h2><b>MD ALI KHAN</b></h2>
-  <p><b>AI Engineer • Backend Developer • Automation Specialist</b></p>
+  <font size="6"><b>AI Engineer • Backend Developer • Automation Specialist</b></font>
 </div>
 
 ---
@@ -12,28 +11,27 @@
 ## 🚀 Portfolio  
 <p align="center">
   <a href="https://chat-with-ali.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Chat%20With%20Ali-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-Chat%20With%20Ali-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💡 About Me  
-
-- 🔧 Building **AI-powered automation systems & scalable backends**  
-- 🤖 Specialized in **Multi-Agent Systems, RAG pipelines, LLM apps**  
-- ⚡ Strong in **API design, databases, and system architecture**  
-- 🚀 Deployed real-world apps with **real-time streaming AI systems**  
-- 🧠 Approach: **Solve problems as systems, not just models**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alikhan1129&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/alikhan1129?label=Followers&style=flat-square" />
+</p>
 
 ---
 
-## 🧠 Current Focus  
+## 💫 About Me  
 
-- Multi-Agent AI Platforms  
-- AI Resume Optimization Systems  
-- Full-stack AI SaaS Products  
-- Production-ready AI deployment  
+🔭 Building **AI-powered automation systems & scalable full-stack apps**  
+🤖 Focused on **Multi-Agent Systems, RAG pipelines, LLM applications**  
+⚡ Strong in **APIs, backend architecture, and databases**  
+🌱 Currently learning **system design & production AI deployment**  
+💬 Ask me about **AI automation, RAG, backend systems, full-stack AI**  
+⚡ Fun fact: *I treat AI problems as automation + system design challenges*  
 
 ---
 
@@ -42,55 +40,52 @@
 ### 👨‍💻 Languages  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### 🚀 Backend & Full Stack  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
 ### 🤖 AI / ML  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20APIs-black?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn)
+
+---
+
+### 🚀 Full Stack  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono)
 
 ---
 
 ### 🗄️ Database & Cloud  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render)
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🧠 AI-Powered Customer Support System  
-- Multi-agent architecture for intelligent query routing  
+- Multi-agent system for intelligent query routing  
 - Real-time AI streaming responses  
 - Type-safe backend (Node.js + Hono + Prisma)  
-- Optimized DB performance with Supabase  
 
 ---
 
 ### 🌐 Canteen — Campus Social Network  
-- Anonymous posting + communities + messaging  
-- Scalable system supporting **2000+ universities**  
-- Built with Next.js, PostgreSQL, Prisma  
-- Deployed on Vercel + Supabase  
+- Anonymous social platform with communities & messaging  
+- Supports **2000+ universities**  
+- Built using Next.js, PostgreSQL, Prisma  
 
 ---
 
 ### 🤖 AI Interactive Portfolio  
 - Chat-based portfolio powered by LLMs  
-- Context-aware responses about projects & skills  
-- Built using Next.js + AI SDK  
+- Context-aware system for project queries  
 
 ---
 
@@ -104,7 +99,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect  
 
 <p align="center">
   <a href="https://linkedin.com/in/md-ali-khan">
@@ -120,6 +115,4 @@
 
 ---
 
-## ⭐ Support  
-
-If you like my work, consider giving a ⭐ — it motivates me to build more impactful systems 🚀
+⭐ If you like my work, consider giving a star!
