@@ -1,18 +1,12 @@
-
-
 ![LiveStreamer](https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862)
-
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+MD+ALI+KHAN&font=Fira+Code&center=true&size=45&color=F75C7E&vCenter=true&width=500&height=60&duration=4000&pause=1000">
   </a>
   <br>
-  <font size="7" color="#F75C7E"><b>AI/ML Engineer • Automation Specialist</b></font>
+  <font size="7" color="#F75C7E"><b>AI/ML Engineer • Full-Stack AI Developer</b></font>
 </div>
-
-<br>
-
 <br>
 
 <div align="center">
@@ -20,22 +14,7 @@
   <img src="https://img.shields.io/badge/Visit%20Portfolio-Chat%20With%20Ali-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </div>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alikhan1129&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/alikhan1129?label=Followers&style=flat-square" alt="GitHub Followers" />
-</p>
-
-
-## 💫 About Me
-🚀 **Backend / Full Stack Developer** focused on scalable systems & APIs.
-💻 Built production-ready apps including a campus social network & multi-agent AI systems.
-🧠 Strong in **Node.js, PostgreSQL, System Design, and AI Integrations**.
-🌱 Currently improving DSA & backend scalability.
-⚡ Fun fact: I focus on building real-world products, not just models.
-
+<br>
 
 ## 🔥 Featured Projects
 
@@ -56,23 +35,28 @@
 * 🧠 **Features:** Engineered a contextually aware LLM backend to deliver smart responses alongside dynamic UI rendering.
 * 🛠️ **Tech Stack:** Implemented using Next.js, Vercel AI SDK, Groq API, and modern frontend architecture.
 
-### 🏅 AI Pest Control System
-*Engineered a computer vision application that identifies agricultural pests and recommends eco-friendly treatments.*
-* 🐛 **ML Pipeline:** Trained a deep learning classifier leveraging MobileNetV2 with transfer learning, achieving over 85% validation accuracy across 12 pest categories.
-* 🌿 **Impact:** Designed a mapping system to suggest natural, non-toxic pesticide alternatives based on visual identification.
-* 🛠️ **Tech Stack:** Python, TensorFlow, Keras, Matplotlib, OpenCV.
+---
 
-### 🏅 Multi-Modal AI Voice Vision Assistant
-*Built an interactive desktop AI assistant combining natural language processing, computer vision, and voice commands.*
-* 👁️ **Multi-Modal Capabilities:** Integrated YOLOv8 for object detection, BLIP for scene understanding, and Whisper for speech-to-text recognition.
-* ⚡ **Functionality:** Programmed the system to execute local OS actions like launching applications, performing web searches, and recalling schedule details.
-* 🛠️ **Tech Stack:** Python, Generative AI APIs, NLP, OCR.
+## 🧪 Other Projects
 
+* **AI Pest Control System:** Deep learning classifier (MobileNetV2, 85%+ accuracy) that maps visual pest identification to eco-friendly pesticide recommendations. *(Python, TensorFlow, OpenCV)*
+* **Multi-Modal AI Voice Assistant:** Desktop automation tool integrating YOLOv8 (vision), Whisper (speech), and NLP to execute OS commands and web searches. *(Python, NLP, GenAI APIs)*
 
+---
 
+## 💫 About Me
+🚀 **Backend / Full Stack Developer** focused on scalable systems & APIs.
+💻 Built production-ready apps including a campus social network & multi-agent AI systems.
+🧠 Strong in **Node.js, PostgreSQL, System Design, and AI Integrations**.
+🌱 Currently improving DSA & backend scalability.
+⚡ Fun fact: I focus on building real-world products, not just models.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__allie_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ali-khan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_allie_11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdalikhan9097@gmail.com) 
+---
+
+## 🎯 Currently Seeking
+Actively looking for roles as an **AI Engineer** or **Machine Learning Engineer**, with a strong focus on **Generative AI**, **Agentic AI systems**, and **RAG architectures**. Open to full-time roles and high-impact freelance/contract work.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -110,43 +94,25 @@
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-
-
+---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alikhan1129&theme=radical&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800" alt="GitHub Stats" />
-  <br/>
-    <img src="https://streak-stats.demolab.com/?user=alikhan1129&theme=radical&hide_border=false" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alikhan1129&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alikhan1129&theme=tokyonight" alt="Md Ali Khan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alikhan1129&theme=radical&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=alikhan1129&theme=radical&hide_border=false" alt="Streak Stats" />
 </p>
 
+---
 
-
-<br>
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+## 📫 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/md-ali-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-ali-khan" height="30" width="40" /></a>
+<a href="https://x.com/_allie_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_allie_11" height="30" width="40" /></a>
+<a href="https://instagram.com/__allie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__allie_" height="30" width="40" /></a>
+<a href="mailto:mdalikhan9097@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mdalikhan9097@gmail.com" height="30" width="40" /></a>
 </p>
 
 <br>
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  ⭐ <b>If you like my work, consider giving a star!</b>
 </p>
-
-<br>
-
-<p align="center">
-  ⭐ <b>If you like my work, consider giving a star — it motivates me a lot!</b>
-</p>
-
-
-[![](https://visitcount.itsvg.in/api?id=alikhan1129&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
