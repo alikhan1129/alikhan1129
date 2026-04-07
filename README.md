@@ -1,4 +1,6 @@
+
 ![LiveStreamer](https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862)
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -7,6 +9,9 @@
   <br>
   <font size="7" color="#F75C7E"><b>AI/ML Engineer • Full-Stack AI Developer</b></font>
 </div>
+
+<br>
+
 <br>
 
 <div align="center">
@@ -14,7 +19,11 @@
   <img src="https://img.shields.io/badge/Visit%20Portfolio-Chat%20With%20Ali-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </div>
-<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alikhan1129&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/alikhan1129?label=Followers&style=flat-square" alt="GitHub Followers" />
+</p>
 
 ## 🔥 Featured Projects
 
