@@ -32,10 +32,10 @@
 
 <br>
 ## 🎯 Currently Seeking
-🔍 **Target Roles:** Backend Developer • Full-Stack Developer • AI-Focused Developer   <br>
-💡 **Core Focus:** Building scalable systems and integrating AI into real-world applications (LLMs, RAG, multi-agent systems)   <br>
-💼 **Availability:** Open to full-time, internships, and contract roles   <br>
-🤝 **Interests:** AI-powered products, automation workflows, and production-grade system design
+🔍 **Target Roles:** Backend Developer • Full-Stack Developer • AI-Focused Developer.   <br>
+💡 **Core Focus:** Building scalable systems and integrating AI into real-world applications (LLMs, RAG, multi-agent systems).  <br>
+💼 **Availability:** Open to full-time, internships, and contract roles.   <br>
+🤝 **Interests:** AI-powered products, automation workflows, and production-grade system design.
 <br>
 
 ## 🔥 Featured Projects
