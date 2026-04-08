@@ -31,14 +31,11 @@
 ⚡ Fun fact: I focus on building real-world products, not just models.
 
 <br>
-
 ## 🎯 Currently Seeking
-🔍 **Target Roles:** AI Engineer • Machine Learning Engineer • Full-Stack AI Developer. <br>
-💡 **Core Focus:** Generative AI, Agentic AI Systems, and RAG Architectures. <br>
-💼 **Availability:** Open to **Full-time** roles, **Internships**, and high-impact **Contract** work. <br>
-🤝 **Interests:** AI-powered products, automation workflows, and production-grade system design.
-
-
+🔍 **Target Roles:** Backend Developer • Full-Stack Developer • AI-Focused Developer   <br>
+💡 **Core Focus:** Building scalable systems and integrating AI into real-world applications (LLMs, RAG, multi-agent systems)   <br>
+💼 **Availability:** Open to full-time, internships, and contract roles   <br>
+🤝 **Interests:** AI-powered products, automation workflows, and production-grade system design
 <br>
 
 ## 🔥 Featured Projects
